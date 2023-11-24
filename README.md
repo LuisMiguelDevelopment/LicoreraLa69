@@ -35,16 +35,16 @@ git clone https://github.com/LuisMiguelDevelopment/LicoreraLa69.git
 <h1>Uso<h1/>
 Explorar el Catálogo:
 
--Navegue por las categorías de licores y haga clic en un producto para obtener más detalles.
+Navegue por las categorías de licores y haga clic en un producto para obtener más detalles.
 Agregar al Carrito:
 
--Desde la página del producto, seleccione la cantidad deseada y haga clic en "Agregar al Carrito".
+Desde la página del producto, seleccione la cantidad deseada y haga clic en "Agregar al Carrito".
 Revisar Carrito:
 
--Vaya al carrito de compras para revisar sus productos y ajustar las cantidades si es necesario.
+Vaya al carrito de compras para revisar sus productos y ajustar las cantidades si es necesario.
 Proceso de Pago:
 
--Haga clic en "Proceder al Pago" para ingresar a la pasarela de pago.
+Haga clic en "Proceder al Pago" para ingresar a la pasarela de pago.
 Seleccione la opción de pago: Mercado Pago o Efectivo.
 Finalizar Compra:
 
