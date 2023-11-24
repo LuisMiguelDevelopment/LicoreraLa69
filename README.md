@@ -1,6 +1,8 @@
 <h1>Licorera La 69 - Aplicación Web</h1>
 Licorera La 69 es una plataforma de comercio electrónico diseñada para la venta de una amplia variedad de licores. Este README proporciona información clave sobre la aplicación y cómo configurarla para su uso.
 
+Proyecto de aprendizaje en SENA (Servicio Nacion de Aprendizaje )
+
 Características Principales
 Catálogo de Licores: Explore y compre una amplia gama de licores disponibles en Licorera La 69.
 Carrito de Compras: Agregue productos al carrito y gestione fácilmente las cantidades.
@@ -24,14 +26,21 @@ Conexión a Internet: Se requiere una conexión estable para realizar compras y 
 Clonar el Repositorio:
 git clone https://github.com/LuisMiguelDevelopment/LicoreraLa69.git
 <h2>Server</h2>
-1.cd server
-2.npm install
+
+
+
+<ul>
+  <li>1.cd server</li>
+   <li>2.npm install</li>
+</ul>
 
 <h2>Client</h2>
-1.cd client
-2.npm install
 
 
+<ul>
+   <li>1.cd client</li>
+   <li>2.npm install</li>
+</ul>
 <h1>Uso</h1>
 Explorar el Catálogo:
 
@@ -61,9 +70,15 @@ Contribuciones
 ¡Las contribuciones son bienvenidas! Si encuentra problemas o tiene mejoras que sugerir, abra un problema o envíe una solicitud de extracción.
 
 <h1>Desarrolladores</h1>
-Luis Miguel Alvarez Marin
-Yeison Gil Alzate
-Juan Manuel Castaño
+
+<ul>
+  <li>Luis Miguel Alvarez Marin</li>
+   <li>Yeison Gil Alzate</li>
+   <li>Juan Manuel Castaño</li>
+</ul>
+
+
+
 
 
 </>
