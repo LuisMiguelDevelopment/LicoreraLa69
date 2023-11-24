@@ -1,0 +1,85 @@
+.general__perfil{
+    background-image: url(./img/fondoSobreNosotros.webp) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.card__perfil{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color:rgba(255, 255, 255, 0.322);
+    padding: 20px 50px;
+}
+
+.card__header--h1{
+    font-size: 2rem;
+}
+
+.card__header--span{
+    color: var(--rojo);
+}
+
+.card__header-perfil{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card__header--img{
+    width: 180px;
+    border-radius: 50%;
+    margin-top: 20px;
+    object-fit:cover;
+    height: 180px;
+}
+
+.card__header--img:hover{
+    opacity: 0.8;
+}
+
+
+.card__body-perfil{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card__label{
+    font-family: 'proxi';
+    margin: 10px 0;
+}
+
+.card__input{
+    width: 370px;
+    height: 30px;
+    color: black;
+}
+
+.button__perfil{
+    margin-top: 20px;
+    height: 50px;
+    width: 150px;
+    background-color: var(--rojo)!important;
+}
+
+.button__perfil:hover{
+    color: var(--rojo);
+    background-color: var(--blanco)!important;
+}
+
+
+@media screen and (max-width:500px) {
+    .card__perfil{
+        padding: 10px 20px;
+        width: 375px;
+        
+    }
+}

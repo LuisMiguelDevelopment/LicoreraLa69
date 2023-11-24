@@ -1,0 +1,46 @@
+@font-face {font-family: Montserrat-black ;src: url(..//..//assets/fonts/Montserrat-Light.ttf);}
+@font-face {font-family: nova ;src: url(..//..//assets/fonts/proxi.otf);}
+
+.pedidos{
+    background-image: url(..//..//img/descarga.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-direction: column;
+    display: flex; 
+}
+
+th{
+    font-family: nova;
+    
+}
+
+td{
+    font-family: nova;
+}
+.imgPro{
+    width: 25%;
+}
+
+
+.scroll_pedidos::-webkit-scrollbar{
+   height: 5px;
+  
+}
+.scroll_pedidos::-webkit-scrollbar-thumb{
+    background-color: rgb(255, 255, 255);
+   
+}
+
+html::-webkit-scrollbar{
+    width: 5px;
+   
+}
+html::-webkit-scrollbar-thumb{
+    background-color: rgb(255, 255, 255);
+   
+}
+
+.pedido__img{
+    height: 100px;
+    width:100px;
+}

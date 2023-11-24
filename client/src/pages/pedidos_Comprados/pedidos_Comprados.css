@@ -1,0 +1,17 @@
+.pedidos_comprados{
+    background-image: url(..//..//img/descarga.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-direction: column;
+    display: flex; 
+
+   
+}
+.scrollpedidosComprados::-webkit-scrollbar{
+    height: 5px;
+   
+ }
+ .scrollpedidosComprados::-webkit-scrollbar-thumb{
+     background-color: rgb(255, 255, 255);
+    
+ }

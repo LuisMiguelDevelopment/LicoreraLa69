@@ -1,0 +1,100 @@
+.login{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    background-image: url(./img/fondo.jpg);
+}
+
+.login__h1,.login__span{
+    margin-bottom: 20px;
+    font-size: 2.1rem;
+    text-align: center;
+}
+
+.login__span{
+    color: var(--rojo);
+}
+
+.login__img{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+}
+
+.login__img--img{
+    width: 400px;
+}
+
+.login__container-form{
+    width: 60%
+}
+
+.login__form{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    background-color: rgba(255, 255, 255, 0.205);
+    padding: 10px 10px 0px;
+    height: 550px;
+    justify-content: center;
+}
+
+.login__input{
+    height: 50px;
+    color: black;
+    margin: 20px;
+    font-family: 'mont';
+}
+
+.buttons{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.login__button{
+    height: 60px;
+    background-color: var(--rojo)!important;
+    width: 160px;
+    margin: 20px 0 10px;
+    font-family: 'proxi';
+}
+.login__button:hover{
+
+    background-color: var(--blanco)!important;
+    color: var(--rojo);
+    
+}
+
+.login__button--grey{
+    background-color: rgb(65, 62, 62) !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login__button--grey:hover{
+    background-color: var(--blanco) !important;
+    color: rgb(65, 62, 62);
+}
+
+.login__label{
+    font-family: 'proxi';
+    text-align: center;
+}
+
+.login__p{
+    text-align: center;
+    font-family: 'mont';
+}
+
+@media screen and (max-width:850px) {
+    .login__img{
+        display: none;
+    }
+    .login__container-form{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}

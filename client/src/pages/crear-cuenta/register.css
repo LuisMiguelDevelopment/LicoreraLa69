@@ -1,0 +1,45 @@
+.header{
+    background-image: url(..//..//img/1600x900-Fondo-de-Pantalla-Negro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-direction: column;
+    display: flex;   
+}
+
+@font-face {
+    font-family: Montserrat-black ;
+    src: url(../../assets/fonts/Montserrat-Light.ttf);}
+
+@font-face {
+    font-family: nova 
+    ;src: url(../../assets/fonts/proxi.otf);}
+h3{
+    font-family: nova;
+   
+}
+h1{
+    font-family: nova;
+    
+}
+
+.alertas{
+    text-align: center;
+}
+
+.btn-primary {
+    @apply   transition duration-700 ease-in-out transform hover:scale-105
+
+}
+@media only screen and (max-width:828px){
+    .imgg{
+      display: none;
+     
+    }
+    .container-secundario{
+      display: none; 
+    }
+    .container-terciario{
+        margin-top: 70px;
+    }
+
+}

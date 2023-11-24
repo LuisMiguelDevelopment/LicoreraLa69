@@ -1,0 +1,35 @@
+@font-face {font-family: Montserrat-black ;src: url(..//..//assets/fonts/Montserrat-Light.ttf);}
+@font-face {font-family: nova ;src: url(..//..//assets/fonts/proxi.otf);}
+
+.fondo{
+    background-image: url(..//..//img/1600x900-Fondo-de-Pantalla-Negro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-direction: column;
+    display: flex; 
+    
+   
+}
+
+#icon{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+h3{
+    padding: 16px;
+}
+
+@media only screen and (max-width:768px){
+    .formAgregar{
+        min-width: 30%;
+
+    }
+    .sub{
+        margin-top: 10px;
+    }
+   
+
+}
+ 

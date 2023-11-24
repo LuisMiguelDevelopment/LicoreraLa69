@@ -1,0 +1,140 @@
+
+.navbar__logo--img{
+    width: 25rem;
+    margin: 0 10px;
+}
+
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 5.2rem ;
+    font-family: 'proxi';
+    position: fixed;
+    width: 100%;
+    z-index: 102;  
+    background-color: rgba(41, 39, 39, 0.2);
+    backdrop-filter:blur(5px);
+}
+.navbar__ul{
+   display: flex;
+   padding: 0 20px;
+   width: 100%;
+   align-items: center;
+   height: 100%;
+   
+}
+
+.navbar__li{
+    margin: 0 20px;
+   
+}
+
+.navbar__a:hover{
+    color: var(--rojo);
+}
+
+
+.menu{
+    display: none;
+}
+
+.navbar__enlaces.mobile-menu{
+    margin-right: 0%;
+    transition: all 0.5s ease ;
+ 
+}
+
+
+@media screen and (min-width:1200px) {
+
+    
+    .navbar__li{
+        margin: 0 60px;
+    }
+
+    .navbar__a{
+        font-size: 1.2rem;
+    }
+    
+    .navbar__logo--img{
+        width: 30rem;
+    }
+
+}
+
+@media screen and (max-width:1600px) {
+
+    
+    .navbar__li{
+        margin: 0 20px;
+    }
+
+    .navbar__a{
+        font-size: 1.2rem;
+    }
+    
+    .navbar__logo--img{
+        width: 30rem;
+    }
+
+}
+
+
+@media screen and (max-width:1200px) {
+    .navbar__enlaces{
+        position:fixed;
+        top: 0;
+        right: 0;
+        background-color: rgba(104, 101, 101);
+        width: 70%;
+        transition: all 0.5s ease ;
+        margin-right: -100%; 
+        height: 100vh;       
+    }
+    .navbar__ul{
+        flex-direction: column;
+        justify-content: center;
+        gap: 50px 0;
+        
+    }
+    .navbar{
+        z-index: 100;
+    }
+
+
+    .seccion-footer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px 0;
+    }
+    .menu{
+        font-size: 2rem;
+        display: block;
+        position: absolute;
+        right: 15px;
+        top: 15px;
+        
+    }
+
+
+}
+
+@media screen and (max-width:470px) {
+    .navbar__logo--img{
+        width: 350px;
+    }
+   
+    
+}
+
+@media screen and (max-width:403px) {
+    .navbar__enlaces{
+        width: 100%;
+    }
+  
+
+}
+

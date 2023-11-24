@@ -1,0 +1,96 @@
+.perfil{
+    position:fixed;
+    top: 0;
+    right: 0;
+    background-color: rgb(56, 55, 55);
+    height: 100%;
+    transition: all 0.5s ease ;
+    gap: 30px 0;
+    width: 400px;
+    margin-right: -100%;
+    z-index: 1000;
+}
+
+
+.perfil-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    gap: 50px;
+}
+.perfil-titulo{
+    text-align: center;
+}
+.perfil-header{
+    display: flex;
+    justify-content: center;
+}
+.perfil__img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.perfil-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px 0;
+}
+
+.perfil-footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px 0;
+}
+
+.perfil-button{
+    background-color: var(--rojo);
+    color: white;
+    border: none;
+    padding: 10px 10px ;
+    width: 150px;
+    font-family:'proxi';
+}
+.perfil-button:hover{
+    background-color: white;
+    color: red;
+}
+
+.perfil-h2{
+    font-family: 'proxi';
+}
+.perfil-p{
+    font-family: 'mont';
+}
+
+hr{
+    width:100%;
+    
+}
+
+
+.perfil.mobile-menu{
+    margin-right: 0%;
+    transition: all 0.5s ease ;
+}
+
+
+@media screen and (max-width:1200px) {
+ 
+    .perfil{      
+        width: 70%;      
+    }
+
+}
+
+
+@media screen and (max-width:470px) {
+    .perfil{
+        
+        width: 100%; 
+    }
+    
+}
