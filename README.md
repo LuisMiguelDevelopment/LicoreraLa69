@@ -4,20 +4,28 @@ Licorera La 69 es una plataforma de comercio electrónico diseñada para la vent
 Proyecto de aprendizaje en SENA (Servicio Nacion de Aprendizaje )
 
 Características Principales
-Catálogo de Licores: Explore y compre una amplia gama de licores disponibles en Licorera La 69.
-Carrito de Compras: Agregue productos al carrito y gestione fácilmente las cantidades.
-Pasarela de Pago: Realice transacciones seguras mediante la integración de una pasarela de pago.
-Opciones de Pago: Aceptamos pagos a través de Mercado Pago y también en efectivo.
-Seguridad: Garantizamos la seguridad de sus transacciones y datos personales.
-Arquitectura Cliente-Servidor
+-Catálogo de Licores: Explore y compre una amplia gama de licores disponibles en Licorera La 69.
+
+-Carrito de Compras: Agregue productos al carrito y gestione fácilmente las cantidades.
+
+-Pasarela de Pago: Realice transacciones seguras mediante la integración de una pasarela de pago.
+
+-Opciones de Pago: Aceptamos pagos a través de Mercado Pago y también en efectivo.
+
+-Seguridad: Garantizamos la seguridad de sus transacciones y datos personales.
+
+<h1>Arquitectura Cliente-Servidor</h1>
+
 Licorera La 69 sigue una arquitectura cliente-servidor, donde el backend está implementado en Node.js y el frontend en React con Vite.
 
-Backend (Node.js): El servidor backend gestiona la lógica de negocio, maneja las transacciones y se comunica con la base de datos.
-Frontend (React con Vite): La interfaz de usuario interactiva y amigable para el cliente se implementa en React, con Vite como herramienta de construcción para un rendimiento optimizado.
+-Backend (Node.js): El servidor backend gestiona la lógica de negocio, maneja las transacciones y se comunica con la base de datos.
+
+-Frontend (React con Vite): La interfaz de usuario interactiva y amigable para el cliente se implementa en React, con Vite como herramienta de construcción para un rendimiento optimizado.
 Requisitos Previos
+
 Asegúrese de tener instalado lo siguiente:
 
-Node.js: Versión recomendada.
+-Node.js: Versión recomendada.
 Navegador Web Moderno: Recomendamos utilizar Google Chrome, Mozilla Firefox o Safari para una experiencia óptima.
 Conexión a Internet: Se requiere una conexión estable para realizar compras y transacciones.
 
@@ -44,20 +52,20 @@ git clone https://github.com/LuisMiguelDevelopment/LicoreraLa69.git
 <h1>Uso</h1>
 Explorar el Catálogo:
 
-Navegue por las categorías de licores y haga clic en un producto para obtener más detalles.
+-Navegue por las categorías de licores y haga clic en un producto para obtener más detalles.
 Agregar al Carrito:
 
-Desde la página del producto, seleccione la cantidad deseada y haga clic en "Agregar al Carrito".
+-Desde la página del producto, seleccione la cantidad deseada y haga clic en "Agregar al Carrito".
 Revisar Carrito:
 
-Vaya al carrito de compras para revisar sus productos y ajustar las cantidades si es necesario.
+-Vaya al carrito de compras para revisar sus productos y ajustar las cantidades si es necesario.
 Proceso de Pago:
 
-Haga clic en "Proceder al Pago" para ingresar a la pasarela de pago.
+-Haga clic en "Proceder al Pago" para ingresar a la pasarela de pago.
 Seleccione la opción de pago: Mercado Pago o Efectivo.
 Finalizar Compra:
 
-Complete el proceso de pago según la opción elegida.
+-Complete el proceso de pago según la opción elegida.
 Recibirá una confirmación de la compra y detalles de entrega si es aplicable.
 
 
