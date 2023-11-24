@@ -40,7 +40,7 @@ git clone https://github.com/LuisMiguelDevelopment/LicoreraLa69.git
 <ul>
   <li>1.cd server</li>
    <li>2.npm install</li>
-   <li>2.npm run dev</li>
+   <li>3.npm run dev</li>
 </ul>
 
 <h2>Client</h2>
@@ -49,7 +49,7 @@ git clone https://github.com/LuisMiguelDevelopment/LicoreraLa69.git
 <ul>
    <li>1.cd client</li>
    <li>2.npm install</li>
-   <li>2.npm run dev</li>
+   <li>3.npm run dev</li>
 </ul>
 <h1>Uso</h1>
 Explorar el Catálogo:
