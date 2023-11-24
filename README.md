@@ -1,7 +1,7 @@
 <h1>Licorera La 69 - Aplicación Web</h1>
 Licorera La 69 es una plataforma de comercio electrónico diseñada para la venta de una amplia variedad de licores. Este README proporciona información clave sobre la aplicación y cómo configurarla para su uso.
 
-<h2>Proyecto de aprendizaje en SENA (Servicio Nacion de Aprendizaje )</h2>
+<h1>Proyecto de aprendizaje en SENA (Servicio Nacion de Aprendizaje )</h1>
 
 Características Principales
 -Catálogo de Licores: Explore y compre una amplia gama de licores disponibles en Licorera La 69.
