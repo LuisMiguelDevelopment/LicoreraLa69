@@ -54,12 +54,12 @@ const Pedidos = () => {
         <tr className=" text-[20px]">
           <th className="py-2 px-4">ID</th>
           <th className="py-2 px-4">IMAGEN</th>
-          <th className="py-2 px-4">PEDIDOS REALIZADOS</th>
+          <th className="py-2 px-4">PRODUCTOS</th>
           <th className="py-2 px-4">CANTIDAD</th>
-          <th className="py-2 px-4">PRECIO TOTAL</th>
           <th className="py-2 px-4">ESTADO PEDIDO</th>
           <th className="py-2 px-4">DIRECCION</th>
-          <th className="py-2 px-4">PRECIO</th>
+          <th className="py-2 px-4">METODO PAGO</th>
+          <th className="py-2 px-4">TOTAL</th>
         </tr>
       </thead>
       <tbody className="w-full text-center">
@@ -87,7 +87,7 @@ const Pedidos = () => {
                 <td className="py-2">{producto.nombre}</td>
                 <td className="py-2">{producto.cantidad}</td>
                 <td className="py-2">
-                  {pedido.estado === "pagado" ? "Sí" : "No"}
+                  {pedido.estado === "pagado" ? "CONFIRMADO" : "No"}
                 </td>
                 {productoIndex === 0 && (
                   <td rowSpan={pedido.productos.length} className="">
