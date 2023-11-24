@@ -32,7 +32,7 @@ git clone https://github.com/LuisMiguelDevelopment/LicoreraLa69.git
 2.npm install
 
 
-<h1>Uso<h1/>
+<h1>Uso</h1>
 Explorar el Catálogo:
 
 Navegue por las categorías de licores y haga clic en un producto para obtener más detalles.
