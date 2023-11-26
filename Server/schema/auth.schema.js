@@ -2,15 +2,15 @@ const { z } = require('zod');
 
 exports.registerSchema = z.object({
     Nombre: z.string({
-        required_error: "Username is a required field"
+        required_error: "Nombre es requerido"
     }),
     Email: z.string({
-        required_error: "Email address is a required field"
+        required_error: "Email es requerido"
     }).email({
         message: "Invalid Email Address"
     }),
     Contrasena: z.string({
-        required_error: 'Password is required field '
+        required_error: 'Contraseña es requerida '
     }).min(6, {
         message: 'Password must be at least  6 characters long'
     }),

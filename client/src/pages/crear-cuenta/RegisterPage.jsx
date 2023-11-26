@@ -29,7 +29,7 @@ function RegisterPage() {
                     </h1>
                     <h3 className=' subtitulos text-center my-4 text-[1.1rem]'>NOMBRE DE USUARIO</h3>
                     <input type="text" {...register("Nombre", { required: true })} placeholder='UserName' className='w-full bg-white  text-black  px-4 py-4 ' />
-                    {errors.username && <p className='alertas'>UserName is required</p>}
+                    {errors.Nombre && <p className='alertas'>UserName is required</p>}
                     <h3 className=' subtitulos text-center text-[1.1rem]'>CORREO ELECTRONICO</h3>
                     <input type="email" {...register("Email", { required: true })} placeholder='email' className='w-full  bg-white text-black px-4 py-4 ' />
                     {errors.Email && <p className='alertas'>Email is required</p>}
