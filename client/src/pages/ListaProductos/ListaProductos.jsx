@@ -9,6 +9,7 @@ const ListaProductos = () => {
   const { getProductos, productos, getImageUrl, deleteProductos, notificaciones } = useProductos();
   const [buscarProducto, setBuscarProducto] = useState('');
   const [resultadoBusqueda, setResultadoBusqueda] = useState([]);
+  const [selectProducto, setSelectProducto] = useState(null);
 
   const handleBusqueda = (event) => {
     setBuscarProducto(event.target.value);
@@ -17,6 +18,16 @@ const ListaProductos = () => {
   useEffect(() => {
     getProductos();
   }, []);
+
+
+  const openModal = (producto) => {
+    setSelectProducto(producto);
+  };
+
+  const closeModal = () => {
+    setSelectProducto(null);
+  };
+
 
   useEffect(() => {
     const filtrarProductos = productos.filter((producto) => {
@@ -112,7 +123,7 @@ const ListaProductos = () => {
                 <p className='bloque_producto__id_text precio__text'>$ {producto.Precio}</p>
               </div>
               <div className="bloque_producto__buttons bloque_producto-block">
-                <button>Ver Producto</button>
+                <button onClick={() => openModal(producto)}>Ver Producto</button>
               <Link to={`/editar-productos/${producto._id}`}>Editar</Link>
               <AiTwotoneDelete className='delete__product' onClick={() => handleDeleteProducto(producto._id)} />
             </div >
@@ -120,6 +131,31 @@ const ListaProductos = () => {
   <hr className='separador__lp' />
         </div >
       ))}
+
+
+
+{selectProducto && (
+          <div className="modal">
+            <div className="card__modal">
+              <div className="modal__derecha">
+                <div className="modal__image">
+                  <img className="modal__image--img" src={getImageUrl(selectProducto)} alt="" />
+                </div>
+              </div>
+              <div className="modal__izquierda">
+                <AiOutlineClose className="fa-solid fa-x salir-modal" onClick={closeModal} />
+                <div className="modal__info">
+                  <h1 className='modal__h2'>{selectProducto.Nombre}</h1>
+                  <p className='modal__descripcion'>{selectProducto.Descripcion}</p>
+                  <div className="modal__valor">
+                    <h2 className="modal__precio">${selectProducto.Precio}</h2>
+                   
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
 
 
 <div className="notificacion">
