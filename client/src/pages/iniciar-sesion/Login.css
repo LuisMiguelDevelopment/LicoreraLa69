@@ -44,6 +44,8 @@
     color: black;
     margin: 20px;
     font-family: 'mont';
+    outline: none;
+    padding: 5px;
 }
 
 .buttons{

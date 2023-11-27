@@ -30,6 +30,10 @@ h1{
     @apply   transition duration-700 ease-in-out transform hover:scale-105
 
 }
+
+input{
+    outline: none;
+}
 @media only screen and (max-width:828px){
     .imgg{
       display: none;

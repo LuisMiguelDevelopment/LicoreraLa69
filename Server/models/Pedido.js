@@ -13,7 +13,7 @@ const pedidoSchema = new mongoose.Schema({
     },
     telefono: {
         type: String,  
-        required: true
+        require: true
     },
     productos: [
         {

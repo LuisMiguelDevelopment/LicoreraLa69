@@ -63,6 +63,7 @@ export function CarritoProvider({ children }) {
       }
     } catch (error) {
       console.error(error);
+      showAlert('Tienes que iniciar sesion', '', 'error');
     }
   };
   const calcularPrecioTotal = (productos) => {
