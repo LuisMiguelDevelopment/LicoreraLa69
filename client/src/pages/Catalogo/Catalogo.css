@@ -164,6 +164,7 @@
 .buscar{
     display: flex;
     margin-left: 10px;
+    justify-content: center;
 
 }
 .title_buscar_lp{
