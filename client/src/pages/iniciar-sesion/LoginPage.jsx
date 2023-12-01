@@ -34,16 +34,16 @@ function LoginPage() {
       
 
         <form className='login__form' onSubmit={handleSubmit(onSubmited)}>
-          <h1 className="login__h1">INICIAR <span className='login__span'>SESION</span></h1>
+          <h1 className="login__h1">INICIAR <span className='login__span'>SESIÓN</span></h1>
           <label htmlFor="" className="login__label">CORREO</label>
-          <input type="email" {...register("Email", { required: true })} placeholder='email' className='login__input' />
+          <input type="email" {...register("Email", { required: true })} placeholder='Correo Electronico' className='login__input' />
           {
-            errors.Email && <p className='login__p'>Email is required</p>
+            errors.Email && <p className='login__p'>El correo es requerido</p>
           }
           <label htmlFor="" className="login__label">CONTRASEÑA</label>
-          <input type="password" {...register("Contrasena", { required: true })} placeholder='password' className='login__input' />
+          <input type="password" {...register("Contrasena", { required: true })} placeholder='Contraseña' className='login__input' />
           {
-            errors.Contrasena && <p className='login__p'>Password is required</p>
+            errors.Contrasena && <p className='login__p'>La contraseña es requerida</p>
           }
           <div className="buttons">
             <button type="submit" className="login__button login__button--red">INICIAR</button>

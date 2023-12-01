@@ -28,13 +28,13 @@ function RegisterPage() {
                     <h1 className=' titulo text-[1.9rem] text-center'>CREAR <span className='text-red-600 text-[1.9rem]'>CUENTA</span>
                     </h1>
                     <h3 className=' subtitulos text-center my-4 text-[1.1rem]'>NOMBRE DE USUARIO</h3>
-                    <input type="text" {...register("Nombre", { required: true })} placeholder='UserName' className='w-full bg-white  text-black  px-4 py-4 ' />
+                    <input type="text" {...register("Nombre", { required: true })} placeholder='Nombre' className='w-full bg-white  text-black  px-4 py-4 ' />
                     {errors.username && <p className='alertas'>UserName is required</p>}
                     <h3 className=' subtitulos text-center text-[1.1rem]'>CORREO ELECTRONICO</h3>
-                    <input type="email" {...register("Email", { required: true })} placeholder='email' className='w-full  bg-white text-black px-4 py-4 ' />
+                    <input type="email" {...register("Email", { required: true })} placeholder='Correo' className='w-full  bg-white text-black px-4 py-4 ' />
                     {errors.Email && <p className='alertas'>Email is required</p>}
                     <h3 className=' subtitulos text-center text-[1.1rem]'>CONTRASEÑA</h3>
-                    <input type="password" {...register("Contrasena", { required: true })} placeholder='password' className='w-full  bg-white  text-black  px-4 py-4 d ' />
+                    <input type="password" {...register("Contrasena", { required: true })} placeholder='Contraseña' className='w-full  bg-white  text-black  px-4 py-4 d ' />
                     {errors.Contrasena && <p className='alertas'>Password is required</p>}
                     <h3 className=' subtitulos text-center text-[1.1rem]'>FECHA DE NACIMIENTO</h3>
                     <input type="date" {...register("Fecha", { required: true })} placeholder='fecha' className='w-full  bg-white  text-black  px-4 py-4  ' />
