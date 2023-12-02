@@ -1,0 +1,749 @@
+[{
+  "_id": {
+    "$oid": "646e91fe60fa5c9941d08c58"
+  },
+  "Usuario": "YeyOGz",
+  "Nombre": "Yeison Gil Alzate",
+  "Email": "yeisong.a9701@gmail.com",
+  "Contrasena": "$2a$10$ld2RzZA/vwA0ONkM6YeZ5eGoqrXXhcpAIdpyQc256f7tXYnRLsyM6",
+  "Tipo": "Admi",
+  "createdAt": {
+    "$date": "2023-05-24T22:38:54.769Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T20:12:31.881Z"
+  },
+  "__v": 0,
+  "Telefono": "",
+  "UrlImagen": "1700856751880-Perfil.jpg"
+},
+{
+  "_id": {
+    "$oid": "647fae680bec9c45264cfa41"
+  },
+  "Usuario": "LuisMiguelA",
+  "Email": "luismiguelalvarezmarin109@gmail.com",
+  "Contrasena": "$2a$10$9wC3qidcDkAobWA/L4.Vt.RUu7IvEfkZbT9HfapJ7PIyQxh9hejP6",
+  "Tipo": "Admi",
+  "createdAt": {
+    "$date": "2023-06-06T22:08:40.814Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-26T18:55:05.032Z"
+  },
+  "__v": 0,
+  "Nombre": "Luis Miguel Alvarez Marin",
+  "Telefono": "3043953888",
+  "UrlImagen": "1701024905029-Captura_de_pantalla_2023-08-01_173023-transformed-removebg-preview (1).png"
+},
+{
+  "_id": {
+    "$oid": "64cfe762c8e38dd1c819780b"
+  },
+  "Usuario": "Juan Manuel Castaño Agudelo",
+  "Nombre": "juanmanuelcastano11b@gmail.com",
+  "Email": "18 de marzo del 2005",
+  "Contrasena": "$2a$10$c2XMeKEiU7VQ0.Q07Nzzbe90QcT1LO0K0zrwGfbwbeFOocF1PK3tW",
+  "createdAt": {
+    "$date": "2023-08-06T18:33:06.695Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T20:39:54.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650daa06cf7ab6f03860673d"
+  },
+  "Usuario": "",
+  "Contrasena": "$2a$10$rydkFCbcMyaRWH3M6uONNueVSBHExWh6xP1xJq0miaba01YDoj0hC",
+  "createdAt": {
+    "$date": "2023-09-22T14:51:50.326Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T14:51:50.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65134b091e91c6a57456f6cc"
+  },
+  "Nombre": "Luis Miguel",
+  "Email": "luismiguelalvarezmarin10988889@gmail.com",
+  "Contrasena": "$2a$10$TjczO7mBrU6GoOX8B6cNfOtKabQNcZamWcM8CKFVHRjaHOQInEv9u",
+  "createdAt": {
+    "$date": "2023-09-26T21:20:09.558Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T21:20:09.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65135df570a0a9d163410188"
+  },
+  "Nombre": "Luis",
+  "Email": "luismi009@gmail.com",
+  "Contrasena": "$2a$10$C1xQNSKdyxJpLou4bCGjE.Q6kv70s0..NoMfykFHOCjlvwvWw7OyK",
+  "createdAt": {
+    "$date": "2023-09-26T22:40:53.023Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T22:40:53.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65136aa9761d01a037dccbc0"
+  },
+  "Nombre": "Maria",
+  "Email": "mariaangel09@gmail.com",
+  "Contrasena": "$2a$10$gdPgyV33AD1xBcChQhXD3u8fW9eTNmScvsXQBI6nDp1CCtIGDO3pq",
+  "createdAt": {
+    "$date": "2023-09-26T23:35:05.723Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T23:35:05.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651489b8419b7febd66e3ce2"
+  },
+  "Nombre": "LuchoElMor",
+  "Email": "luismiguelalvarezmarin10977@gmail.com",
+  "Contrasena": "$2a$10$0UJokojMJNM6cvch7b9GeeUdF9FFy10rTRyrn1YyfmFwsi.D6RkG2",
+  "createdAt": {
+    "$date": "2023-09-27T19:59:52.005Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-27T19:59:52.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6514926c3e47f3ffe9c0eadb"
+  },
+  "Nombre": "Juanita Alimaña",
+  "Email": "juanita009@gmail.com",
+  "Contrasena": "$2a$10$GMQzBv6HJwK22vWRyOZI0OGsHVq2l57CZdaM6OUd9dM7JPAAw.kYW",
+  "createdAt": {
+    "$date": "2023-09-27T20:37:00.765Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-27T20:37:00.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651493465a4151b367691a93"
+  },
+  "Nombre": "Juana",
+  "Email": "juana123@gmail.com",
+  "Contrasena": "$2a$10$21Iy7mo0HAanG2lwxOQnD.HJ85BZhGbfatQBGgitjvV/02o9iJYkS",
+  "createdAt": {
+    "$date": "2023-09-27T20:40:38.414Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-27T20:40:38.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6514940dd7f4b5c6cf40cdf8"
+  },
+  "Nombre": "Luis Miguel",
+  "Email": "luismi0009@gmail.com",
+  "Contrasena": "$2a$10$Qyh.XLdxfBWzrUYuNIxH/.02gFPbzaA9ZG0/nhCaSHtkJ70TgREsW",
+  "createdAt": {
+    "$date": "2023-09-27T20:43:57.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-27T20:43:57.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6515ee21f8af7f1cbb69d747"
+  },
+  "Nombre": "Juana Jose maria cordova",
+  "Email": "juana@gmail.com",
+  "Contrasena": "$2a$10$wXC95QC8oaY8h9JLG3zmmOa2LtQXvYKzeobo0S3Xi9zSSnYXt3N5G",
+  "createdAt": {
+    "$date": "2023-09-28T21:20:33.863Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-28T21:20:33.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6515eeb2f8af7f1cbb69d74f"
+  },
+  "Nombre": "Yeison Gil",
+  "Email": "yeisong.a97011@gmail.com",
+  "Contrasena": "$2a$10$E5GRx5YDfkqUld7vBZlQ8ezeSBQ0iTltqpJwFqG3p6MXw6QE2o0mC",
+  "createdAt": {
+    "$date": "2023-09-28T21:22:58.630Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-28T21:22:58.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516035cb4ba4de6a3574ab6"
+  },
+  "Nombre": "usuario x",
+  "Email": "usuariox1234@gmail.com",
+  "Contrasena": "$2a$10$LknzbQ.ANI0b9DvieU56.e8UiqqOv9uXP1EKhMNoqDY3ej70oKvza",
+  "createdAt": {
+    "$date": "2023-09-28T22:51:08.371Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-28T22:51:08.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65171d1bfe8630870e13ca9c"
+  },
+  "Nombre": "LuchoElMor",
+  "Email": "lucho@gmail.com",
+  "Contrasena": "$2a$10$q.tTTccjFP4G0aT9mLYt3O07WlzQeg5yguXo7W1y0lJ0lOnLXTSwK",
+  "createdAt": {
+    "$date": "2023-09-29T18:53:15.307Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-29T18:53:15.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65171d3ffe8630870e13ca9f"
+  },
+  "Nombre": "LuchoElMor",
+  "Email": "lucho09@gmail.com",
+  "Contrasena": "$2a$10$kuIEUkQ4w7qrMYZtyLGaj.cY1GIdUIHgs0cg6GtK2cRPmxvzfpX8a",
+  "createdAt": {
+    "$date": "2023-09-29T18:53:51.890Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-29T18:53:51.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65172053fe8630870e13cace"
+  },
+  "Nombre": "Pedro",
+  "Email": "pedro@gmail.com",
+  "Contrasena": "$2a$10$oPH3lrYIwI8I2x4LAkUDJOXOFTz1UtivJk2BCTBlfUkhSg7AC6dnC",
+  "createdAt": {
+    "$date": "2023-09-29T19:06:59.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-29T19:06:59.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6517270dfe8630870e13cadc"
+  },
+  "Nombre": "LuchoElMor",
+  "Email": "lucho123@gmail.com",
+  "Contrasena": "$2a$10$IT8fsOIxid1wEZ1ogpAUE.ggvoOTBcrgUT29QcDjus5HlO5wddBPe",
+  "createdAt": {
+    "$date": "2023-09-29T19:35:41.114Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-29T19:35:41.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65172774fe8630870e13cadf"
+  },
+  "Nombre": "LuchoElMorsddsds",
+  "Email": "lucho123dsdsd@gmail.com",
+  "Contrasena": "$2a$10$1Di.LyB5/oa2qw1a.E2D9eCSnBDLaPrT2TpfrE/dXw1Lj.zovzPHm",
+  "createdAt": {
+    "$date": "2023-09-29T19:37:24.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-29T19:37:24.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651727b7fe8630870e13caea"
+  },
+  "Nombre": "papitojose",
+  "Email": "papitojose@gmail.com",
+  "Contrasena": "$2a$10$E6BoK6X7JxhxucPWf6rqPun9fYBB1eq8zKK4nMS9tfObHpp8idJbi",
+  "createdAt": {
+    "$date": "2023-09-29T19:38:31.628Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-29T19:38:31.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6517561bd6bec339ba421384"
+  },
+  "Nombre": "Juan Manuel Castaño",
+  "Email": "juanmanuelcastano11b@gmail.com",
+  "Contrasena": "$2a$10$bMfYfHumsOyH90D32bMjQOSzEEF8PpWcvpX.e6.GwM6oh8S/JdjoG",
+  "createdAt": {
+    "$date": "2023-09-29T22:56:27.794Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T23:09:27.208Z"
+  },
+  "__v": 0,
+  "Telefono": "",
+  "UrlImagen": "1700767662977-Juanma.jpg",
+  "Tipo": "Admi"
+},
+{
+  "_id": {
+    "$oid": "65188e27de1ea1b485a45a4b"
+  },
+  "Nombre": "Juanma0318",
+  "Email": "juanmanueljuanmajuanmaw1@gmail.com",
+  "Contrasena": "$2a$10$AK7Gyoz9HXO6pS3RaQ99gOvGa/wtYutZXnIQbB0yCNGLHAV5Jpi1e",
+  "createdAt": {
+    "$date": "2023-09-30T21:07:51.063Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T20:41:03.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6519c8c38fdd95a2dd485f1b"
+  },
+  "Nombre": "Jose Luis",
+  "Email": "joseluis@gmail.com",
+  "Contrasena": "$2a$10$wo1Qd6JBa8yXIaZqLRgnZ.pn51Rp5bYtF0.Fv0GAJwZweaaHUFJmy",
+  "Fecha": {
+    "$date": "2003-02-01T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-10-01T19:30:11.804Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-01T19:30:11.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654119cca5794f9e36c34c52"
+  },
+  "Nombre": "Janfry",
+  "Email": "jjrm1002@gmail.com",
+  "Contrasena": "$2a$10$3up7qcI9A03K51oVQ/fDDu2uQjbTp8t3vYx9LQ2crtDdFbkzgD6uO",
+  "Fecha": {
+    "$date": "2001-12-01T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-10-31T15:14:20.740Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-31T15:14:20.740Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6543db0dfa6ceaeb2b8eeb3f"
+  },
+  "Nombre": "mailo",
+  "Email": "mailo@mail.com",
+  "Contrasena": "$2a$10$D7cvXcWt5xofwvw7/XrWI.R7h92.OIcFEraQLsbE8tRnF0DPaWbra",
+  "Fecha": {
+    "$date": "2001-12-01T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-02T17:23:25.894Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-02T17:23:25.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6546ae142a5661b798da9779"
+  },
+  "Nombre": "Juan",
+  "Email": "juan@gmail.com",
+  "Contrasena": "$2a$10$TGUR6Ogw34AUg6rpV7vw9uxBXGcaO1YoI25fbOkzb8zX8HvKQNYea",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "3444184386000000"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-11-04T20:48:20.461Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-04T20:48:20.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654818da7895dca860ffbaf2"
+  },
+  "Nombre": "Juxnjo",
+  "Email": "juxnjo@gmail.com",
+  "Contrasena": "$2a$10$obQFqQwQ9.b.phczR2evwODAn5grdCPoP3bZ6HX50pm4kBceMbXY.",
+  "Fecha": {
+    "$date": "2001-01-17T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-05T22:36:10.482Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-05T22:36:10.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654a96ba66fe465f68641525"
+  },
+  "Nombre": "Jose Perkeman",
+  "Email": "jose@gmail.com",
+  "Contrasena": "$2a$10$5I1BUfEyEJ7Vf5.QfdmAjua/EDKKKR0fXiahsJGtJ8x/zgUrg135i",
+  "Fecha": {
+    "$date": "2023-11-08T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-07T19:57:46.343Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-07T21:50:26.976Z"
+  },
+  "__v": 0,
+  "UrlImagen": "1699393826972-131893779_1491010494427344_7713946337952524364_n.jpg"
+},
+{
+  "_id": {
+    "$oid": "654a9e295db981e8603a5bf3"
+  },
+  "Nombre": "pepito",
+  "Email": "pepito@gmail.com",
+  "Contrasena": "$2a$10$5AJvbEn62X6hexfOvUtple.bkbB27z5bJIX9kZadsxr1YkpHShL2O",
+  "createdAt": {
+    "$date": "2023-11-07T20:29:29.819Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-07T20:29:29.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654e87a3e20159f8bdfd0502"
+  },
+  "Nombre": "juancho",
+  "Email": "juancho@gmail.com",
+  "Contrasena": "$2a$10$XhN.eL/xQYxTGk/4zO70y.QJ9yOTXt12kMnhPSczjfvKnjypiAWw6",
+  "Fecha": {
+    "$date": "2001-12-21T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-10T19:42:27.611Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-10T19:42:27.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6557adfe89e54282d11c026d"
+  },
+  "Nombre": "pachamama",
+  "Email": "pachamama@gmail.com",
+  "Contrasena": "$2a$10$MqI9ni7lEsavdQdBkCtXKe2t7YTKjPzjakPd0tgJ63bQKia9pIniO",
+  "Fecha": {
+    "$date": "2001-12-01T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-17T18:16:30.107Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-17T18:16:30.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6557af1b7c93dee7bc94ae5f"
+  },
+  "Nombre": "panchocha",
+  "Email": "panocha@gmail.com",
+  "Contrasena": "$2a$10$exiWIquURp9AQKz0FQjSfOiBtB6P5BlqSEitpBjpVjlFGE7J/sld.",
+  "Fecha": {
+    "$date": "7000-12-01T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-17T18:21:15.882Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-17T18:21:15.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655804a086fe41aa8337868e"
+  },
+  "Nombre": "panocha",
+  "Email": "panochon@gmail.com",
+  "Contrasena": "$2a$10$KUU/ROyD88zYiPp851d8Eu4Ql7Judl2SWQjbMkTzSjx775RtJ1C0q",
+  "Fecha": {
+    "$date": "8000-12-01T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-18T00:26:09.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-18T00:26:09.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655848a30ef7f6c21ff7d8d1"
+  },
+  "Nombre": "LuchitoElMor",
+  "Email": "luismiguelalvarezmarin1099@gmail.com",
+  "Contrasena": "$2a$10$GWTzSXxhPtf/bUahhiuOn.cewqU2uLk/yHv6p3vs0bJgmTAsnLdKa",
+  "Fecha": {
+    "$date": "2023-11-06T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-18T05:16:19.405Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-18T05:16:19.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6559be917219a954a02bdcac"
+  },
+  "Nombre": "LuchoElMor",
+  "Email": "luismiguelalvarezmarindsdsds109@gmail.com",
+  "Contrasena": "$2a$10$OPvA/tol.Hl3V61/tq213eu1rKyWttx4uzbffVv6AoYSJwSAcfUve",
+  "Fecha": {
+    "$date": "2001-02-14T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-19T07:51:45.882Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T07:51:45.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6559c1487219a954a02bdd5f"
+  },
+  "Nombre": "LuchoElMor",
+  "Email": "luismiguelalvdsadsaarezmarin109@gmail.com",
+  "Contrasena": "$2a$10$MGVOTadqlJlfaIxIOQRmhulQJMUgmAUsujf2ja1DEoLdm3PO/5/e2",
+  "Fecha": {
+    "$date": "1999-05-04T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-19T08:03:20.764Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T08:03:20.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655bf81a2883492453ceb547"
+  },
+  "Nombre": "Yeison Prueba",
+  "Email": "yeisongil.a9701@gmail.com",
+  "Contrasena": "$2a$10$UuRk/yTCC5jYxqSs1BwjB.G4ERBbauZvd7NRuDn0mGIfgv9VyesFy",
+  "Fecha": {
+    "$date": "2001-09-07T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-21T00:21:46.010Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T00:22:39.880Z"
+  },
+  "__v": 0,
+  "Telefono": "",
+  "UrlImagen": "1700526159876-Perfil.jpg"
+},
+{
+  "_id": {
+    "$oid": "655e36f4b420d72762b02125"
+  },
+  "Nombre": "LuchoElMor",
+  "Email": "luismiguelalvarezmarin109988@gmail.com",
+  "Contrasena": "$2a$10$Vh0SJo4wcup4UNpXTYVLWey3HZLdeLQE4YgLa1tBbKgNyg8mOWLb.",
+  "Fecha": {
+    "$date": "2003-06-10T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-22T17:14:28.267Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T17:14:28.267Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6560fafb0655a587f917250c"
+  },
+  "Nombre": "Yeison Gil",
+  "Email": "yeisong@gmail.com",
+  "Contrasena": "$2a$10$SpCgmG6qeZqZgNNoPDLA3eHIzaAeifj3miLtWX3TQhIcmWnUq7vu.",
+  "Fecha": {
+    "$date": "2001-09-07T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-24T19:35:23.553Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T19:36:29.644Z"
+  },
+  "__v": 0,
+  "Telefono": "3102536714",
+  "UrlImagen": "1700854589641-Perfil 2.jpg"
+},
+{
+  "_id": {
+    "$oid": "656100eb0655a587f91725b4"
+  },
+  "Nombre": "Yeison Gil",
+  "Email": "yeison@gmail.com",
+  "Contrasena": "$2a$10$ujA8ExlAPqMUmMDQ8VgjGOwowE7cLaBGfZHSXvxFgJuNoAmfKfaTO",
+  "Fecha": {
+    "$date": "2001-09-07T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-24T20:00:43.453Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T20:02:16.602Z"
+  },
+  "__v": 0,
+  "Telefono": "3102536714",
+  "UrlImagen": "1700856136600-Perfil 2.jpg"
+},
+{
+  "_id": {
+    "$oid": "656522060d1ea51a95f402b9"
+  },
+  "Nombre": "pepe",
+  "Email": "pepesdasd@gmail.com",
+  "Contrasena": "$2a$10$h06lqiiv58n0mdfw4f9/juMVJjkXGmUhMjbW990e964VSbvNVCD0S",
+  "Fecha": {
+    "$date": "2001-01-18T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-27T23:11:02.386Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-27T23:14:42.551Z"
+  },
+  "__v": 0,
+  "Telefono": "3630891",
+  "UrlImagen": "1701126882518-Capture001.png"
+},
+{
+  "_id": {
+    "$oid": "65654dca7c020bafd6cb67aa"
+  },
+  "Nombre": "Juan Manuel Castaño",
+  "Email": "juanmanueljuanmajuanma@gmail.com",
+  "Contrasena": "$2a$10$603w7PGSSri5T6YqoZNHL.ljhXDO.lSg64IpesTjdsExwzsRQRDPa",
+  "Fecha": {
+    "$date": "2000-06-13T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-28T02:17:46.519Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T02:17:46.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567ceecd45a0f2466e2677f"
+  },
+  "Nombre": "Luis Miguel Alvarez Marin",
+  "Email": "luchoelmorsena@gmail.com",
+  "Contrasena": "$2a$10$dfs6qEdmY.XgFMXHxKspoOUIrCATRIE/V/0fGt/O9oBumzjiovz.6",
+  "Fecha": {
+    "$date": "2003-02-05T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-29T23:53:16.719Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T23:53:42.612Z"
+  },
+  "__v": 0,
+  "Telefono": "3630891",
+  "UrlImagen": "1701302022592-Screenshot_1.png"
+},
+{
+  "_id": {
+    "$oid": "65688889e3502a8916db6276"
+  },
+  "Nombre": "Mono 2",
+  "Email": "mono@gmail.com",
+  "Contrasena": "$2a$10$WQWZ1w6xrr6/s62TnZqfW.6EgN/pgAeWy8zMfgeY0zf/bcHmWhkcy",
+  "Fecha": {
+    "$date": "2002-01-09T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-11-30T13:05:13.503Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-30T13:06:02.260Z"
+  },
+  "__v": 0,
+  "Telefono": "3102536714",
+  "UrlImagen": "1701349562244-Perfil 2.jpg"
+}]

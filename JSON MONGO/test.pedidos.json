@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "65688558e3502a8916db6230"
+  },
+  "user": {
+    "$oid": "646e91fe60fa5c9941d08c58"
+  },
+  "nombreUsuario": "Yeison Gil Alzate",
+  "telefono": "",
+  "productos": [
+    {
+      "producto": {
+        "$oid": "65688546e3502a8916db6227"
+      },
+      "cantidad": 1,
+      "precio": 4000,
+      "nombre": "Heineken",
+      "urlimagen": "1700246806689-1695678132664-heineken-original-bottle.png",
+      "_id": {
+        "$oid": "65688558e3502a8916db6231"
+      }
+    }
+  ],
+  "direccion": "cra58b#14sur-05",
+  "tipoPago": "mercadopago",
+  "total": 4000,
+  "estado": "pagado",
+  "fechaCompra": {
+    "$date": "2023-11-30T12:51:36.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656888fee3502a8916db6298"
+  },
+  "user": {
+    "$oid": "65688889e3502a8916db6276"
+  },
+  "nombreUsuario": "Mono 2",
+  "telefono": "3102536714",
+  "productos": [
+    {
+      "producto": {
+        "$oid": "656888ece3502a8916db6290"
+      },
+      "cantidad": 1,
+      "precio": 100000,
+      "nombre": "Blue Label",
+      "urlimagen": "1700337751335-1695677552963-002218-JOHNNIE_WALKER_BLUE_LABEL_BOTELLA_200ML.png",
+      "_id": {
+        "$oid": "656888fee3502a8916db6299"
+      }
+    }
+  ],
+  "direccion": "mi casa",
+  "tipoPago": "Efectivo",
+  "total": 100000,
+  "estado": "pagado",
+  "fechaCompra": {
+    "$date": "2023-11-30T13:07:10.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65688919e3502a8916db62b9"
+  },
+  "user": {
+    "$oid": "65688889e3502a8916db6276"
+  },
+  "nombreUsuario": "Mono 2",
+  "telefono": "3102536714",
+  "productos": [
+    {
+      "producto": {
+        "$oid": "65688909e3502a8916db62a4"
+      },
+      "cantidad": 2,
+      "precio": 4000,
+      "nombre": "Heineken",
+      "urlimagen": "1700246806689-1695678132664-heineken-original-bottle.png",
+      "_id": {
+        "$oid": "65688919e3502a8916db62ba"
+      }
+    },
+    {
+      "producto": {
+        "$oid": "6568890be3502a8916db62ab"
+      },
+      "cantidad": 1,
+      "precio": 20000,
+      "nombre": "Aguardiente Antioqueño",
+      "urlimagen": "1700337830061-311725-1600-auto.png",
+      "_id": {
+        "$oid": "65688919e3502a8916db62bb"
+      }
+    }
+  ],
+  "direccion": "mi casa",
+  "tipoPago": "mercadopago",
+  "total": 28000,
+  "estado": "pagado",
+  "fechaCompra": {
+    "$date": "2023-11-30T13:07:37.517Z"
+  },
+  "__v": 0
+}]

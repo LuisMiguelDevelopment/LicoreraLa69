@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "656ba779f6b2296cbd08c34b"
+  },
+  "Nombre": "Aguardiente Antioqueño",
+  "Urlimagen": "1700337830061-311725-1600-auto.png",
+  "Cantidad": 1,
+  "Precio": 20000,
+  "user": {
+    "$oid": "647fae680bec9c45264cfa41"
+  },
+  "__v": 0
+}]

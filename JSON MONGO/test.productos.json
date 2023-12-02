@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6557b516d65a4d85a55881ec"
+  },
+  "Nombre": "Heineken",
+  "Descripcion": "Descripción: Heineken® es una cerveza única, y desde 1873 hasta la fecha conserva la misma calidad, principios e ingredientes. A diferencia de cualquier otra cerveza en México, Heineken® se fermenta en el fondo de tanques horizontales, lo que la hace mas clara, pura y durable. 5% Alc.",
+  "Urlimagen": "1700246806689-1695678132664-heineken-original-bottle.png",
+  "Litro": 255,
+  "Marca": "Heineken",
+  "Tipo": "Cerveza",
+  "Cantidad": 96,
+  "EnCart": true,
+  "Precio": 4000,
+  "FechaCreacion": {
+    "$date": "2023-11-17T18:45:31.793Z"
+  },
+  "AvisoAdmi": false,
+  "__v": 0,
+  "VentasRealizadas": 23
+},
+{
+  "_id": {
+    "$oid": "655918570c57c37c5f98446d"
+  },
+  "Nombre": "Blue Label",
+  "Descripcion": "Johnnie Walker Blue Label es un whisky pensado para disfrutar solo, acompañado de un vaso de agua con hielo que prepara el paladar para recibir el sabor aterciopelado característico de este blend, con notas afrutadas y especiadas, y un final ahumado persistente.",
+  "Urlimagen": "1700337751335-1695677552963-002218-JOHNNIE_WALKER_BLUE_LABEL_BOTELLA_200ML.png",
+  "Litro": 600,
+  "Marca": "Johnnie Walker",
+  "Tipo": "Whisky",
+  "Cantidad": 999,
+  "EnCart": true,
+  "Precio": 100000,
+  "FechaCreacion": {
+    "$date": "2023-11-18T19:04:32.960Z"
+  },
+  "AvisoAdmi": false,
+  "__v": 0,
+  "VentasRealizadas": 30
+},
+{
+  "_id": {
+    "$oid": "655918a60c57c37c5f984481"
+  },
+  "Nombre": "Aguardiente Antioqueño",
+  "Descripcion": "Elaborado con alcoholes extra puros, tiene unas notas dulces, ligeramente suaves que lo hacen poseedor de un delicioso y placentero sabor, que al mezclarse con sus componentes naturales aromáticos logra un cálido e incomparable equilibrio entre aroma y sabor.",
+  "Urlimagen": "1700337830061-311725-1600-auto.png",
+  "Litro": 300,
+  "Marca": "Aguardiente Antioqueño",
+  "Tipo": "Aguardiente",
+  "Cantidad": 9,
+  "EnCart": true,
+  "Precio": 20000,
+  "FechaCreacion": {
+    "$date": "2023-11-18T19:04:32.960Z"
+  },
+  "AvisoAdmi": true,
+  "__v": 0,
+  "VentasRealizadas": 38
+}]
