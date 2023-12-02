@@ -503,42 +503,6 @@
 },
 {
   "_id": {
-    "$oid": "6557af1b7c93dee7bc94ae5f"
-  },
-  "Nombre": "panchocha",
-  "Email": "panocha@gmail.com",
-  "Contrasena": "$2a$10$exiWIquURp9AQKz0FQjSfOiBtB6P5BlqSEitpBjpVjlFGE7J/sld.",
-  "Fecha": {
-    "$date": "7000-12-01T00:00:00.000Z"
-  },
-  "createdAt": {
-    "$date": "2023-11-17T18:21:15.882Z"
-  },
-  "updatedAt": {
-    "$date": "2023-11-17T18:21:15.882Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "655804a086fe41aa8337868e"
-  },
-  "Nombre": "panocha",
-  "Email": "panochon@gmail.com",
-  "Contrasena": "$2a$10$KUU/ROyD88zYiPp851d8Eu4Ql7Judl2SWQjbMkTzSjx775RtJ1C0q",
-  "Fecha": {
-    "$date": "8000-12-01T00:00:00.000Z"
-  },
-  "createdAt": {
-    "$date": "2023-11-18T00:26:09.000Z"
-  },
-  "updatedAt": {
-    "$date": "2023-11-18T00:26:09.000Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
     "$oid": "655848a30ef7f6c21ff7d8d1"
   },
   "Nombre": "LuchitoElMor",
